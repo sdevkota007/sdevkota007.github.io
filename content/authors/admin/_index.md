@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Welcome to my digital realm! I'm Sudarshan Devkota, a Post Doctoral Researcher at University of Central Florida, with a focus on Computer Graphics, Neural Rendering, and Ray Tracing. I am a recent PhD graduate (2018-2023) from University of Central Florida.   
+I'm a GPU Engineer at Advanced Micro Devices specializing in computer graphics, neural rendering, and ray tracing. I hold a PhD in Computer Science from the University of Central Florida (2023).
 {style="text-align: justify;"}
