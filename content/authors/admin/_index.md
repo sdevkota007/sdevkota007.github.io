@@ -21,8 +21,8 @@ role: GPU Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Advanced Micro Devices (AMD)
-    url: https://www.amd.com/en
+  - name: Advanced Micro Devices
+    url: https://www.amd.com/en.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Graphics, Neural Rendering, Ray Tracing
