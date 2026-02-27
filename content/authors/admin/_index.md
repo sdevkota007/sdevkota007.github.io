@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post Doctoral Researcher
+role: GPU Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Central Florida
-    url: https://www.ucf.edu/
+  - name: Advanced Micro Devices (AMD)
+    url: https://www.amd.com/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Graphics, Neural Rendering, Ray Tracing
